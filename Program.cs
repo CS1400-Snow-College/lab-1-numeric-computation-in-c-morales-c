@@ -1,6 +1,7 @@
-﻿int a = 26;
-int b = 2;
-int c = a - b;
-Console.WriteLine(c);
+﻿int a = 5;
+int b = 4;
+int c = 2;
+int d = a + b * c;
+Console.WriteLine(d);
 
 
