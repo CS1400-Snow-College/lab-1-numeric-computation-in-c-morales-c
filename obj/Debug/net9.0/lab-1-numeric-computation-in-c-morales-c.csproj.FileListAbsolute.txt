@@ -1,0 +1,15 @@
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\bin\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.exe
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\bin\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.deps.json
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\bin\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.runtimeconfig.json
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\bin\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\bin\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.AssemblyInfoInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.AssemblyInfo.cs
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.csproj.CoreCompileInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.sourcelink.json
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\refint\lab-1-numeric-computation-in-c-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\lab-1-numeric-computation-in-c-morales-c.genruntimeconfig.cache
+C:\Users\wjnpy\code\my-code-dir\lab-1-numeric-computation-in-c-morales-c\obj\Debug\net9.0\ref\lab-1-numeric-computation-in-c-morales-c.dll
