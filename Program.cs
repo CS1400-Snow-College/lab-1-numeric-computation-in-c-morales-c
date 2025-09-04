@@ -1,7 +1,6 @@
-﻿int a = 5;
-int b = 4;
-int c = 2;
-int d = (a + b) - 6 * c + (12 * 4) / 3 + 12;
-Console.WriteLine(d);
-
-
+﻿int a = 20;
+int b = 2;
+int c = 5;
+int d = 7;
+int e = (b + d) * 10 - a / c + (2 + 9);
+Console.WriteLine(e);
